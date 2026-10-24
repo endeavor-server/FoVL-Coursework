@@ -1,0 +1,448 @@
+[00:15] Imagine if you could record your life --
+[00:19] everything you said, everything you did,
+[00:22] available in a perfect memory store at your fingertips,
+[00:25] so you could go back
+[00:27] and find memorable moments and relive them,
+[00:30] or sift through traces of time
+[00:33] and discover patterns in your own life
+[00:35] that previously had gone undiscovered.
+[00:38] Well that's exactly the journey
+[00:40] that my family began
+[00:42] five and a half years ago.
+[00:44] This is my wife and collaborator, Rupal.
+[00:47] And on this day, at this moment,
+[00:49] we walked into the house with our first child,
+[00:51] our beautiful baby boy.
+[00:53] And we walked into a house
+[00:56] with a very special home video recording system.
+[01:07] (Video) Man: Okay.
+[01:10] Deb Roy: This moment
+[01:11] and thousands of other moments special for us
+[01:14] were captured in our home
+[01:16] because in every room in the house,
+[01:18] if you looked up, you'd see a camera and a microphone,
+[01:21] and if you looked down,
+[01:23] you'd get this bird's-eye view of the room.
+[01:25] Here's our living room,
+[01:28] the baby bedroom,
+[01:31] kitchen, dining room
+[01:33] and the rest of the house.
+[01:35] And all of these fed into a disc array
+[01:38] that was designed for a continuous capture.
+[01:41] So here we are flying through a day in our home
+[01:44] as we move from sunlit morning
+[01:47] through incandescent evening
+[01:49] and, finally, lights out for the day.
+[01:53] Over the course of three years,
+[01:56] we recorded eight to 10 hours a day,
+[01:58] amassing roughly a quarter-million hours
+[02:01] of multi-track audio and video.
+[02:04] So you're looking at a piece of what is by far
+[02:06] the largest home video collection ever made.
+[02:08] (Laughter)
+[02:11] And what this data represents
+[02:13] for our family at a personal level,
+[02:17] the impact has already been immense,
+[02:19] and we're still learning its value.
+[02:22] Countless moments
+[02:24] of unsolicited natural moments, not posed moments,
+[02:27] are captured there,
+[02:29] and we're starting to learn how to discover them and find them.
+[02:32] But there's also a scientific reason that drove this project,
+[02:35] which was to use this natural longitudinal data
+[02:39] to understand the process
+[02:41] of how a child learns language --
+[02:43] that child being my son.
+[02:45] And so with many privacy provisions put in place
+[02:49] to protect everyone who was recorded in the data,
+[02:52] we made elements of the data available
+[02:55] to my trusted research team at MIT
+[02:58] so we could start teasing apart patterns
+[03:01] in this massive data set,
+[03:04] trying to understand the influence of social environments
+[03:07] on language acquisition.
+[03:09] So we're looking here
+[03:11] at one of the first things we started to do.
+[03:13] This is my wife and I cooking breakfast in the kitchen,
+[03:17] and as we move through space and through time,
+[03:20] a very everyday pattern of life in the kitchen.
+[03:23] In order to convert
+[03:25] this opaque, 90,000 hours of video
+[03:28] into something that we could start to see,
+[03:30] we use motion analysis to pull out,
+[03:32] as we move through space and through time,
+[03:34] what we call space-time worms.
+[03:37] And this has become part of our toolkit
+[03:40] for being able to look and see
+[03:43] where the activities are in the data,
+[03:45] and with it, trace the pattern of, in particular,
+[03:48] where my son moved throughout the home,
+[03:50] so that we could focus our transcription efforts,
+[03:53] all of the speech environment around my son --
+[03:56] all of the words that he heard from myself, my wife, our nanny,
+[03:59] and over time, the words he began to produce.
+[04:02] So with that technology and that data
+[04:05] and the ability to, with machine assistance,
+[04:07] transcribe speech,
+[04:09] we've now transcribed
+[04:11] well over seven million words of our home transcripts.
+[04:14] And with that, let me take you now
+[04:16] for a first tour into the data.
+[04:19] So you've all, I'm sure,
+[04:21] seen time-lapse videos
+[04:23] where a flower will blossom as you accelerate time.
+[04:26] I'd like you to now experience
+[04:28] the blossoming of a speech form.
+[04:30] My son, soon after his first birthday,
+[04:32] would say "gaga" to mean water.
+[04:35] And over the course of the next half-year,
+[04:38] he slowly learned to approximate
+[04:40] the proper adult form, "water."
+[04:43] So we're going to cruise through half a year
+[04:45] in about 40 seconds.
+[04:47] No video here,
+[04:49] so you can focus on the sound, the acoustics,
+[04:52] of a new kind of trajectory:
+[04:54] gaga to water.
+[04:56] (Audio) Baby: Gagagagagaga
+[05:08] Gaga gaga gaga
+[05:12] guga guga guga
+[05:17] wada gaga gaga guga gaga
+[05:22] wader guga guga
+[05:26] water water water
+[05:29] water water water
+[05:35] water water
+[05:39] water.
+[05:41] DR: He sure nailed it, didn't he.
+[05:43] (Applause)
+[05:50] So he didn't just learn water.
+[05:52] Over the course of the 24 months,
+[05:54] the first two years that we really focused on,
+[05:57] this is a map of every word he learned in chronological order.
+[06:01] And because we have full transcripts,
+[06:04] we've identified each of the 503 words
+[06:06] that he learned to produce by his second birthday.
+[06:08] He was an early talker.
+[06:10] And so we started to analyze why.
+[06:13] Why were certain words born before others?
+[06:16] This is one of the first results
+[06:18] that came out of our study a little over a year ago
+[06:20] that really surprised us.
+[06:22] The way to interpret this apparently simple graph
+[06:25] is, on the vertical is an indication
+[06:27] of how complex caregiver utterances are
+[06:30] based on the length of utterances.
+[06:32] And the [horizontal] axis is time.
+[06:35] And all of the data,
+[06:37] we aligned based on the following idea:
+[06:40] Every time my son would learn a word,
+[06:43] we would trace back and look at all of the language he heard
+[06:46] that contained that word.
+[06:48] And we would plot the relative length of the utterances.
+[06:52] And what we found was this curious phenomena,
+[06:55] that caregiver speech would systematically dip to a minimum,
+[06:58] making language as simple as possible,
+[07:01] and then slowly ascend back up in complexity.
+[07:04] And the amazing thing was
+[07:06] that bounce, that dip,
+[07:08] lined up almost precisely
+[07:10] with when each word was born --
+[07:12] word after word, systematically.
+[07:14] So it appears that all three primary caregivers --
+[07:16] myself, my wife and our nanny --
+[07:19] were systematically and, I would think, subconsciously
+[07:22] restructuring our language
+[07:24] to meet him at the birth of a word
+[07:27] and bring him gently into more complex language.
+[07:31] And the implications of this -- there are many,
+[07:33] but one I just want to point out,
+[07:35] is that there must be amazing feedback loops.
+[07:38] Of course, my son is learning
+[07:40] from his linguistic environment,
+[07:42] but the environment is learning from him.
+[07:45] That environment, people, are in these tight feedback loops
+[07:48] and creating a kind of scaffolding
+[07:50] that has not been noticed until now.
+[07:54] But that's looking at the speech context.
+[07:56] What about the visual context?
+[07:58] We're not looking at --
+[08:00] think of this as a dollhouse cutaway of our house.
+[08:02] We've taken those circular fish-eye lens cameras,
+[08:05] and we've done some optical correction,
+[08:07] and then we can bring it into three-dimensional life.
+[08:11] So welcome to my home.
+[08:13] This is a moment,
+[08:15] one moment captured across multiple cameras.
+[08:18] The reason we did this is to create the ultimate memory machine,
+[08:21] where you can go back and interactively fly around
+[08:24] and then breathe video-life into this system.
+[08:27] What I'm going to do
+[08:29] is give you an accelerated view of 30 minutes,
+[08:32] again, of just life in the living room.
+[08:34] That's me and my son on the floor.
+[08:37] And there's video analytics
+[08:39] that are tracking our movements.
+[08:41] My son is leaving red ink. I am leaving green ink.
+[08:44] We're now on the couch,
+[08:46] looking out through the window at cars passing by.
+[08:49] And finally, my son playing in a walking toy by himself.
+[08:52] Now we freeze the action, 30 minutes,
+[08:55] we turn time into the vertical axis,
+[08:57] and we open up for a view
+[08:59] of these interaction traces we've just left behind.
+[09:02] And we see these amazing structures --
+[09:05] these little knots of two colors of thread
+[09:08] we call "social hot spots."
+[09:10] The spiral thread
+[09:12] we call a "solo hot spot."
+[09:14] And we think that these affect the way language is learned.
+[09:17] What we'd like to do
+[09:19] is start understanding
+[09:21] the interaction between these patterns
+[09:23] and the language that my son is exposed to
+[09:25] to see if we can predict
+[09:27] how the structure of when words are heard
+[09:29] affects when they're learned --
+[09:31] so in other words, the relationship
+[09:33] between words and what they're about in the world.
+[09:37] So here's how we're approaching this.
+[09:39] In this video,
+[09:41] again, my son is being traced out.
+[09:43] He's leaving red ink behind.
+[09:45] And there's our nanny by the door.
+[09:47] (Video) Nanny: You want water? (Baby: Aaaa.)
+[09:50] Nanny: All right. (Baby: Aaaa.)
+[09:53] DR: She offers water,
+[09:55] and off go the two worms
+[09:57] over to the kitchen to get water.
+[09:59] And what we've done is use the word "water"
+[10:01] to tag that moment, that bit of activity.
+[10:03] And now we take the power of data
+[10:05] and take every time my son
+[10:08] ever heard the word water
+[10:10] and the context he saw it in,
+[10:12] and we use it to penetrate through the video
+[10:15] and find every activity trace
+[10:18] that co-occurred with an instance of water.
+[10:21] And what this data leaves in its wake
+[10:23] is a landscape.
+[10:25] We call these wordscapes.
+[10:27] This is the wordscape for the word water,
+[10:29] and you can see most of the action is in the kitchen.
+[10:31] That's where those big peaks are over to the left.
+[10:34] And just for contrast, we can do this with any word.
+[10:37] We can take the word "bye"
+[10:39] as in "good bye."
+[10:41] And we're now zoomed in over the entrance to the house.
+[10:43] And we look, and we find, as you would expect,
+[10:46] a contrast in the landscape
+[10:48] where the word "bye" occurs much more in a structured way.
+[10:51] So we're using these structures
+[10:53] to start predicting
+[10:55] the order of language acquisition,
+[10:58] and that's ongoing work now.
+[11:00] In my lab, which we're peering into now, at MIT --
+[11:03] this is at the media lab.
+[11:05] This has become my favorite way
+[11:07] of videographing just about any space.
+[11:09] Three of the key people in this project,
+[11:11] Philip DeCamp, Rony Kubat and Brandon Roy are pictured here.
+[11:14] Philip has been a close collaborator
+[11:16] on all the visualizations you're seeing.
+[11:18] And Michael Fleischman
+[11:21] was another Ph.D. student in my lab
+[11:23] who worked with me on this home video analysis,
+[11:26] and he made the following observation:
+[11:29] that "just the way that we're analyzing
+[11:31] how language connects to events
+[11:34] which provide common ground for language,
+[11:36] that same idea we can take out of your home, Deb,
+[11:40] and we can apply it to the world of public media."
+[11:43] And so our effort took an unexpected turn.
+[11:46] Think of mass media
+[11:48] as providing common ground
+[11:50] and you have the recipe
+[11:52] for taking this idea to a whole new place.
+[11:55] We've started analyzing television content
+[11:58] using the same principles --
+[12:00] analyzing event structure of a TV signal --
+[12:03] episodes of shows,
+[12:05] commercials,
+[12:07] all of the components that make up the event structure.
+[12:10] And we're now, with satellite dishes, pulling and analyzing
+[12:13] a good part of all the TV being watched in the United States.
+[12:16] And you don't have to now go and instrument living rooms with microphones
+[12:19] to get people's conversations,
+[12:21] you just tune into publicly available social media feeds.
+[12:24] So we're pulling in
+[12:26] about three billion comments a month,
+[12:28] and then the magic happens.
+[12:30] You have the event structure,
+[12:32] the common ground that the words are about,
+[12:34] coming out of the television feeds;
+[12:37] you've got the conversations
+[12:39] that are about those topics;
+[12:41] and through semantic analysis --
+[12:44] and this is actually real data you're looking at
+[12:46] from our data processing --
+[12:48] each yellow line is showing a link being made
+[12:51] between a comment in the wild
+[12:54] and a piece of event structure coming out of the television signal.
+[12:57] And the same idea now
+[12:59] can be built up.
+[13:01] And we get this wordscape,
+[13:03] except now words are not assembled in my living room.
+[13:06] Instead, the context, the common ground activities,
+[13:10] are the content on television that's driving the conversations.
+[13:13] And what we're seeing here, these skyscrapers now,
+[13:16] are commentary
+[13:18] that are linked to content on television.
+[13:20] Same concept,
+[13:22] but looking at communication dynamics
+[13:24] in a very different sphere.
+[13:26] And so fundamentally, rather than, for example,
+[13:28] measuring content based on how many people are watching,
+[13:31] this gives us the basic data
+[13:33] for looking at engagement properties of content.
+[13:36] And just like we can look at feedback cycles
+[13:39] and dynamics in a family,
+[13:42] we can now open up the same concepts
+[13:45] and look at much larger groups of people.
+[13:48] This is a subset of data from our database --
+[13:51] just 50,000 out of several million --
+[13:54] and the social graph that connects them
+[13:56] through publicly available sources.
+[13:59] And if you put them on one plain,
+[14:01] a second plain is where the content lives.
+[14:04] So we have the programs
+[14:07] and the sporting events
+[14:09] and the commercials,
+[14:11] and all of the link structures that tie them together
+[14:13] make a content graph.
+[14:15] And then the important third dimension.
+[14:19] Each of the links that you're seeing rendered here
+[14:21] is an actual connection made
+[14:23] between something someone said
+[14:26] and a piece of content.
+[14:28] And there are, again, now tens of millions of these links
+[14:31] that give us the connective tissue of social graphs
+[14:34] and how they relate to content.
+[14:37] And we can now start to probe the structure
+[14:39] in interesting ways.
+[14:41] So if we, for example, trace the path
+[14:44] of one piece of content
+[14:46] that drives someone to comment on it,
+[14:48] and then we follow where that comment goes,
+[14:51] and then look at the entire social graph that becomes activated
+[14:54] and then trace back to see the relationship
+[14:57] between that social graph and content,
+[14:59] a very interesting structure becomes visible.
+[15:01] We call this a co-viewing clique,
+[15:03] a virtual living room if you will.
+[15:06] And there are fascinating dynamics at play.
+[15:08] It's not one way.
+[15:10] A piece of content, an event, causes someone to talk.
+[15:13] They talk to other people.
+[15:15] That drives tune-in behavior back into mass media,
+[15:18] and you have these cycles
+[15:20] that drive the overall behavior.
+[15:22] Another example -- very different --
+[15:24] another actual person in our database --
+[15:27] and we're finding at least hundreds, if not thousands, of these.
+[15:30] We've given this person a name.
+[15:32] This is a pro-amateur, or pro-am media critic
+[15:35] who has this high fan-out rate.
+[15:38] So a lot of people are following this person -- very influential --
+[15:41] and they have a propensity to talk about what's on TV.
+[15:43] So this person is a key link
+[15:46] in connecting mass media and social media together.
+[15:49] One last example from this data:
+[15:52] Sometimes it's actually a piece of content that is special.
+[15:55] So if we go and look at this piece of content,
+[15:59] President Obama's State of the Union address
+[16:02] from just a few weeks ago,
+[16:04] and look at what we find in this same data set,
+[16:07] at the same scale,
+[16:10] the engagement properties of this piece of content
+[16:12] are truly remarkable.
+[16:14] A nation exploding in conversation
+[16:16] in real time
+[16:18] in response to what's on the broadcast.
+[16:21] And of course, through all of these lines
+[16:23] are flowing unstructured language.
+[16:25] We can X-ray
+[16:27] and get a real-time pulse of a nation,
+[16:29] real-time sense
+[16:31] of the social reactions in the different circuits in the social graph
+[16:34] being activated by content.
+[16:37] So, to summarize, the idea is this:
+[16:40] As our world becomes increasingly instrumented
+[16:43] and we have the capabilities
+[16:45] to collect and connect the dots
+[16:47] between what people are saying
+[16:49] and the context they're saying it in,
+[16:51] what's emerging is an ability
+[16:53] to see new social structures and dynamics
+[16:56] that have previously not been seen.
+[16:58] It's like building a microscope or telescope
+[17:00] and revealing new structures
+[17:02] about our own behavior around communication.
+[17:05] And I think the implications here are profound,
+[17:08] whether it's for science,
+[17:10] for commerce, for government,
+[17:12] or perhaps most of all,
+[17:14] for us as individuals.
+[17:17] And so just to return to my son,
+[17:20] when I was preparing this talk, he was looking over my shoulder,
+[17:23] and I showed him the clips I was going to show to you today,
+[17:25] and I asked him for permission -- granted.
+[17:28] And then I went on to reflect,
+[17:30] "Isn't it amazing,
+[17:33] this entire database, all these recordings,
+[17:36] I'm going to hand off to you and to your sister" --
+[17:38] who arrived two years later --
+[17:41] "and you guys are going to be able to go back and re-experience moments
+[17:44] that you could never, with your biological memory,
+[17:47] possibly remember the way you can now?"
+[17:49] And he was quiet for a moment.
+[17:51] And I thought, "What am I thinking?
+[17:53] He's five years old. He's not going to understand this."
+[17:55] And just as I was having that thought, he looked up at me and said,
+[17:58] "So that when I grow up,
+[18:00] I can show this to my kids?"
+[18:02] And I thought, "Wow, this is powerful stuff."
+[18:05] So I want to leave you
+[18:07] with one last memorable moment
+[18:09] from our family.
+[18:12] This is the first time our son
+[18:14] took more than two steps at once --
+[18:16] captured on film.
+[18:18] And I really want you to focus on something
+[18:21] as I take you through.
+[18:23] It's a cluttered environment; it's natural life.
+[18:25] My mother's in the kitchen, cooking,
+[18:27] and, of all places, in the hallway,
+[18:29] I realize he's about to do it, about to take more than two steps.
+[18:32] And so you hear me encouraging him,
+[18:34] realizing what's happening,
+[18:36] and then the magic happens.
+[18:38] Listen very carefully.
+[18:40] About three steps in,
+[18:42] he realizes something magic is happening,
+[18:44] and the most amazing feedback loop of all kicks in,
+[18:47] and he takes a breath in,
+[18:49] and he whispers "wow"
+[18:51] and instinctively I echo back the same.
+[18:56] And so let's fly back in time
+[18:59] to that memorable moment.
+[19:05] (Video) DR: Hey.
+[19:07] Come here.
+[19:09] Can you do it?
+[19:13] Oh, boy.
+[19:15] Can you do it?
+[19:18] Baby: Yeah.
+[19:20] DR: Ma, he's walking.
+[19:24] (Laughter)
+[19:26] (Applause)
+[19:28] DR: Thank you.
+[19:30] (Applause)
